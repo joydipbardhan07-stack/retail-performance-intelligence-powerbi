@@ -17,35 +17,34 @@ quantifies recommended actions.
 ## Report Pages
 
 ### 1. Executive Summary
-![Executive Summary](Executive Summary.png)
+![Executive Summary](Executive%20Summary.png)
 
 High-level KPIs including Total Sales (2.30M), Total Profit (286.40K), 
 Profit Margin % (12.47%), Total Orders (5,009), and Average Discount % 
 (15.62%). Includes a geographic sales map and segment-wise profit breakdown.
 
 ### 2. Sales Performance Analysis
-![Sales Performance](sales-performance.png)
+![Sales Performance](Sales%20Performance.png)
 
 Regional and category-wise sales analysis with cascading Region/State/City 
 slicers, dual-axis Sales & Profit Margin trend, drill-down matrix by 
 Category → Sub-Category → Product, and a sales forecast through 2021.
 
 ### 3. Profitability Analysis
-![Profitability Analysis](profitability-analysis.png)
-
+![Profitability Analysis](Profitability%20Analysis.png)
 Deep-dive into profitability drivers — Discount % vs Profit Margin % 
 comparison by Sub-Category, Profit vs Sales scatter plot with discount-based 
 bubble sizing, Top 5 Profitable States, and Segment-wise margin comparison.
 
 ### 4. Strategic Recommendations
-![Recommendations](recommendations.png)
+![Recommendations](Strategic%20Recommendations.png)
 
 6 data-backed recommendations including a Discount Cap Policy 
 (estimated $17,725+ annual profit recovery), regional pricing audits, 
 and segment-specific strategies.
 
 ### 5. Advanced Analytics (Python Integration)
-![Advanced Analytics](advanced-analytics.png)
+![Advanced Analytics](Advance%20Analytics.png)
 
 Statistical analysis using Python (matplotlib, seaborn) embedded directly 
 in Power BI — including a Profit Distribution Box Plot by Category and a 
