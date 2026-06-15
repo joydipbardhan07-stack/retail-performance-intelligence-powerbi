@@ -17,7 +17,7 @@ quantifies recommended actions.
 ## Report Pages
 
 ### 1. Executive Summary
-![Executive Summary](executive-summary.png)
+![Executive Summary](Executive Summary.png)
 
 High-level KPIs including Total Sales (2.30M), Total Profit (286.40K), 
 Profit Margin % (12.47%), Total Orders (5,009), and Average Discount % 
